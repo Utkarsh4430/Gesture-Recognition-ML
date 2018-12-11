@@ -2,8 +2,12 @@
 Basic gesture recognition project using CNN and OpenCV library.
 
 ## Requirements
-` [Open CV](https://docs.opencv.org/trunk/da/df6/tutorial_py_table_of_contents_setup.html) `
+` Open CV `
+
+
 ` Keras `
+
+
 ` Python3 `
 
 ## Demo
