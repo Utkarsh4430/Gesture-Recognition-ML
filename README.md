@@ -18,8 +18,5 @@ Basic gesture recognition project using CNN and OpenCV library.
 ` peace out `
 ![alt text](./peace_out.png)
 
-` fuck `
-![alt text](./fuck.png)
-
 ` you `
 ![alt text](./you.png)
