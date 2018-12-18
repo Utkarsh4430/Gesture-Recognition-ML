@@ -1,5 +1,5 @@
 # Gesture-Recognition-ML
-Basic gesture recognition project using CNN and OpenCV library.
+Real time gesture recognition project using CNN and OpenCV library.
 
 ## Requirements
 ` OpenCV >= 3.4.2 `
